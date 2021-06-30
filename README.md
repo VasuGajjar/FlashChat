@@ -1,7 +1,7 @@
 # Flash Chat ⚡️
 A Chat application using flutter and firebase firestore
 
-## Uses
+## Things I used for project
 1. Firebase Auth
 2. Firebase Firestore
 3. Shared Preferences
